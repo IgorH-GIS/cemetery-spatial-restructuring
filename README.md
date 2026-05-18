@@ -1,9 +1,9 @@
-# 🗺️ Cemetery Spatial Data Restructuring & QA Pipeline
+#  Cemetery Spatial Data Restructuring & QA Pipeline
 
-## 📝 Project Overview
+##  Project Overview
 This repository showcases a complete end-to-end GIS engineering pipeline. The project transforms raw, unreferenced, and topologically inconsistent cemetery plans into clean, production-ready spatial databases optimized for PostGIS ingestion.
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 * **GIS Software:** QGIS
 * **Core Algorithms:** GRASS `v.clean` and Vector Geometry `Polygonize`
 * **Automation & QA:** GDAL CLI (`gdalinfo`)
@@ -12,7 +12,7 @@ This repository showcases a complete end-to-end GIS engineering pipeline. The pr
 
 ---
 
-## 🏗️ Technical Case Study
+##  Technical Case Study
 
 **Prepared by:** Igor Hajducki  
 **Objective:** Transforming raw, unreferenced, and topologically inconsistent cemetery assets into a clean, production-ready spatial database.
