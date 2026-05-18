@@ -60,12 +60,10 @@ Following the creation of clean polygon geometries, the raw attribute table requ
 1. **`round($area, 2)`** – Automatically calculated the surface area of each plot in square meters, precisely rounded to two decimal places to maintain data cleanliness and discard unnecessary mathematical precision.
 2. **`'Grave A-' || @row_number`** – Dynamically generated unique, standardized identifiers for each plot as strings, ensuring seamless integration with external cemetery management systems.
 
-<img width="681" height="774" alt="23" src="https://github.com/user-attachments/assets/231ea514-1fd7-459e-9863-2e1712cb429f" />
-<img width="682" height="772" alt="25" src="https://github.com/user-attachments/assets/714a46fe-bfc8-41c7-a9c8-af551dcf2636" />
-<img width="113" height="262" alt="24" src="https://github.com/user-attachments/assets/2584402c-489b-4bd4-abf0-af150a880148" />
-<img width="201" height="265" alt="26" src="https://github.com/user-attachments/assets/a866dc9b-adbf-414b-8983-c0c5892e29c2" />
-
-
+<img width="681" height="774" alt="23" src="https://github.com/user-attachments/assets/31390010-2fcf-4ff4-9d3c-2cd59a28e60c" />
+<img width="113" height="262" alt="24" src="https://github.com/user-attachments/assets/ae20d980-b049-4348-8f04-e4af56f5d22e" />
+<img width="682" height="772" alt="25" src="https://github.com/user-attachments/assets/1310429d-42b4-4cb5-97d9-b2cbb5c88987" />
+<img width="201" height="265" alt="26" src="https://github.com/user-attachments/assets/3ca19be5-5636-4897-bfd2-a86ce61856cc" />
 
 ---
 
